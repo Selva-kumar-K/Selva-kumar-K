@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 
 <img width = "50%" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Selva-kumar-K&show_icons=true&theme=radical">
+<img width = "50%" alt = "report" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selva-kumar-K&layout=compact">
