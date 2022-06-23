@@ -22,7 +22,7 @@ Working as a Software Developer and also a partime teacher/trainer who love to t
 <li>Reactjs & Nodejs</li>
 <li>MongoDB</li>
 <h2>Goals</h2>
-<p>to start a own software company and providing genuine services in IT Industry</p>
+<p>to start a own software company and to provide genuine services in IT Industry</p>
 <p>to build "Gurukula Kalvi" for every children to give a right education</p>
 <p>to feed food for helpless people and to start own homecare house for aged people</p>
 <h2>Hobbies</h2>
