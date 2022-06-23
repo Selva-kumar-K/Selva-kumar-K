@@ -31,6 +31,7 @@ Working as a Software Developer and also a partime teacher/trainer who love to t
 <li>Badminton & Cricket</li>
 <h2>Stats & Report</h2>
 <img width = "50%" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Selva-kumar-K&show_icons=true&theme=dark">
+<h2>Most Used Languages</h2>
 <img width = "50%" alt = "report" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selva-kumar-K&layout=compact">
 
 
