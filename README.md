@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology to students @free of cost.</p>
 <h2>Skills</h2>
 <li>Javascript</li>
+<li>Python</li>
+<li>Reactjs & Nodejs</li>
+<li>MongoDB</li>
+<h2>Goals</h2>
+<p>to start a own software company and providing genuine services in IT Industry</p>
+<p>to build "Gurukula Kalvi" for every children to give a right education</p>
+<p>to feed food for helpless people and to start own homecare house for aged people</p>
+<h2>Hobbies</h2>
+<li>Singing</li>
+<li>Book writing</li>
+<li>Badminton & Cricket</li>
 
 <img width = "50%" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Selva-kumar-K&show_icons=true&theme=dark">
 <img width = "50%" alt = "report" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selva-kumar-K&layout=compact">
