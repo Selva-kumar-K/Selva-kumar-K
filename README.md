@@ -30,12 +30,8 @@ Working as a Software Developer and also a partime teacher/trainer who love to t
 <li>Book writing</li>
 <li>Badminton & Cricket</li>
 
+<div>
 <img width = "50%" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Selva-kumar-K&show_icons=true&theme=dark">
 <img width = "50%" alt = "report" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selva-kumar-K&layout=compact">
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
