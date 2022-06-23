@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h2>Overview</h2>
 <p>Hello guys, I'm Selvakumar just call me SK.<br>
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology to students @free of cost.</p>
-
+<h2>Skills</h2>
+<li>Javascript</li>
 
 <img width = "50%" alt="stat" src="https://github-readme-stats.vercel.app/api?username=Selva-kumar-K&show_icons=true&theme=dark">
 <img width = "50%" alt = "report" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selva-kumar-K&layout=compact">
