@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img width= "120%" alt="image" src="https://user-images.githubusercontent.com/92006061/175098625-47ef0439-0512-48bd-843b-2827dff868c0.png">
 <h2>Overview</h2>
 <p>Hello guys, I'm Selvakumar just call me SK.<br>
-Working as a Software Developer and also a partime teacher/trainer who love to teach new technology to students @free of cost.</p>
+Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
 <h2>Skills</h2>
 <li>Javascript</li>
 <li>Python</li>
