@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
 <h2>Skills</h2>
 <li>Javascript</li>
-<li>Python</li>
-<li>Reactjs & Nodejs</li>
+<li>Next.js</li>
+<li>Reactjs</li>
+<li>Postgresql</li>
 <li>MongoDB</li>
 <h2>Goals</h2>
 <p>to start a own software company and to provide genuine services in IT Industry</p>
