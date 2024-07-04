@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
 <h2>Skills</h2>
 <li>Javascript</li>
+<li>Tailwind CSS</li>
 <li>Next.js</li>
 <li>Reactjs</li>
 <li>Postgresql</li>
