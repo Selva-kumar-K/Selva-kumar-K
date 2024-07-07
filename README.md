@@ -22,6 +22,7 @@ Working as a Software Developer and also a partime teacher/trainer who love to t
 <li>Tailwind CSS</li>
 <li>Next.js</li>
 <li>React.js</li>
+<li>Node.js</li>
 <li>Postgresql</li>
 <li>MongoDB</li>
 <h2>Goals</h2>
