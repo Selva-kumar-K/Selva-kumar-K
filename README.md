@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... --!>
-<img width= "120%" alt="image" src="https://user-images.githubusercontent.com/92006061/203276545-cbe3a3f0-09d9-4f4c-801e-a17957789b08.png">
 <h2>Overview</h2>
 <p>Hello guys, I'm Selvakumar just call me SK.<br>
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
