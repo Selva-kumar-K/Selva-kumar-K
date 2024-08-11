@@ -16,14 +16,19 @@ Here are some ideas to get you started:
 <p>Hello guys, I'm Selvakumar just call me SK.<br>
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
 <h2>Skills</h2>
+
+<h3>Frontend</h3>
 <li>JavaScript</li>
 <li>TypeScript</li>
 <li>Tailwind CSS</li>
 <li>Next.js</li>
 <li>React.js</li>
+
+<h3>Backend</h3>
 <li>Node.js</li>
 <li>Postgresql</li>
 <li>MongoDB</li>
+
 <h2>Hobbies</h2>
 <li>Singing</li>
 <li>Book writing</li>
