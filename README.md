@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... --!>
 
-<img src="https://sk-portfolio-iota.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fselva.c0d1dd3a.jpg&w=3840&q=75" alt="selva_photo" width="200" height="200">
+<img src="https://sk-portfolio-iota.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fselva.c0d1dd3a.jpg&w=3840&q=75" alt="selva_photo">
 <h2>Overview</h2>
 <p>Hello guys, I'm Selvakumar just call me SK.<br>
 Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
