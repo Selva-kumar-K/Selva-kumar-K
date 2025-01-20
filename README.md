@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... --!>
 <h2>Overview</h2>
 <p>Hello guys, I'm Selvakumar just call me SK.<br>
-Working as a Software Developer and also a partime teacher/trainer who love to teach new technology.</p>
+Working as a Software Developer and also a part time teacher/trainer who love to teach new technology.</p>
 <h2>Skills</h2>
 
 <h3>Frontend</h3>
@@ -26,8 +26,10 @@ Working as a Software Developer and also a partime teacher/trainer who love to t
 
 <h3>Backend</h3>
 <li>Node.js</li>
+<li>PHP</li>
 <li>Postgresql</li>
 <li>MongoDB</li>
+
 
 <h2>Hobbies</h2>
 <li>Singing</li>
